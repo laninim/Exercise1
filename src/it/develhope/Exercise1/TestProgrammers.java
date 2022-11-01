@@ -19,6 +19,6 @@ public class TestProgrammers {
         jimmy.printDetails();
         jimmy.hasGlasses();
 
-        Mauro.hasGlasses();
+
     }
 }
